@@ -1,0 +1,51 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+body{
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    
+    padding: 20px;
+}
+
+.tabla{
+    background-color: black;
+    margin: auto;
+    padding: 30px;
+    border-radius: 40px;
+    border: 5px solid;
+    
+}
+
+button{
+    width: 70px;
+    height: 70px;
+    font-size: 25px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.btn:hover:hover{
+    opacity: .8;
+}
+#resultado{
+    height: 100px;
+    background-color: rgb(142, 142, 179);
+    margin-bottom: 200px;
+    border-radius: 10px;
+    font-size: 30px;
+    text-align: right;
+    padding-right: 30px
+}
+.columnas{
+    padding-top: 30px;
+}
+
+
+
